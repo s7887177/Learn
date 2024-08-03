@@ -1,15 +1,5 @@
 - [Experiment 1](#experiment-1) ![](https://img.shields.io/badge/Failed-red)
 ## Experiment 1 ![](https://img.shields.io/badge/Failed-red)
-### Origin
-I have Unity Project called **Spartio**. I accidentally add a `doc` folder when I am in branch `zihui-merge-eason` and I also accidentally commit the `doc` folder on that branch. I want to move the `doc` folder into a branch called `eason` and delete the history of the `doc` folder on the `zihui` branch.
-
-I search online and found that in [Git - git-merge Documentation](https://git-scm.com/docs/git-merge) contains a flag `--into-name` and it sounds like what I want. I read about it explaination:
-```
---into-name <branch>
-Prepare the default merge message as if merging to the branch <branch>, instead of the name of the real branch to which the merge is made.
-```
-
-But I don't know what's that mean. So I decide to try by myself.
 ### Objective
 Test if
 ```bash
