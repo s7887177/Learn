@@ -8,16 +8,16 @@
 ### Ingredents
 |Name|Amount|Unit|
 |-|-|-|
-| chicken thigh | 200 | g |
-| olive oil | 20 | ml |
-| brown sugar | 5 | ml |
-| soy sauce | 10 | ml |
-| teaspoons lemon zest | 7.5  | ml |
-| salt | 1 | ml |
-| pepper | 1 | ml |
-| minced garlic | 2 | ml |
-| dry thyme leaves | 1 | ml |
-| italian seasoning | 1 | ml |
+| **chicken thigh** | 200 | g |
+| **olive oil** | 20 | ml |
+| **brown sugar** | 5 | ml |
+| **soy sauce** | 10 | ml |
+| **teaspoons lemon zest** | 7.5  | ml |
+| **salt** | 1 | ml |
+| **pepper** | 1 | ml |
+| **minced garlic** | 2 | ml |
+| **dry thyme leaves** | 1 | ml |
+| **italian seasoning** | 1 | ml |
 
 ### Instructions
 1. Place all the ingredients in a small bowl. Mix until well combined.
@@ -31,9 +31,18 @@
  - **Source:** [Rong's Blog][rong]
  - **Author:** [Rong][rong]
  - **Cuisine:** Taiwan
-
-
-
+### Ingredients
+|Name|Amount|Unit|
+|-|-|-|
+| **chicken thigh** | 200 | g |
+| **garlic** | 2 | clove |
+| **ginger** | 2 | slice|
+| **oyster sauce** | 5 | ml |
+| **soy sauce** | 5 | ml |
+| **rice wine** | 5 | ml |
+| **honey** | 5 | ml |
+| **salt** | 1 | ml |
+### Instructions
 [dinner-at-the-zoo]: https://dinneratthezoo.com
 [sara-welch]: https://www.dinneratthezoo.com/about-me-contact-info/
 [rong]: https://dailycheska.com/
