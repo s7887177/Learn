@@ -78,7 +78,7 @@ or just run
 ```
 .\bin\merge-into-name-1.ps1
 ```
-#### Result 1
+### Result 1
 ```
 Switched to branch 'brA'
 Mode                 LastWriteTime         Length Name

@@ -1,0 +1,2 @@
+## `merge`
+### `--into-name <branch>`
